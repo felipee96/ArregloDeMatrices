@@ -28,7 +28,7 @@ public class EjemploArreglosMatrices {
             JOptionPane.showMessageDialog(null, paises[n]);
        }
         
-        String paisesMatriz[][] = {{"España","Brasil","Argentina"},{"Bogota","Brasilia","Buenos aires"},{"millos","santos","boca"}};
+        String paisesMatriz[][] = {{"España","Brasil","Argentina"},{"Madrid","Brasilia","Buenos aires"},{"millos","santos","boca"}};
         
         for (int p=0;p<paisesMatriz.length;p++){
             
